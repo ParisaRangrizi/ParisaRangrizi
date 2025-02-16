@@ -22,7 +22,7 @@ I'm ParisaRangrizi, a beginner **Django Developer** passionate about building we
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParisaRangrizi&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParisaRangrizi&show_icons=true&theme=dracula)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parisa-rangrizi-0883a2175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
